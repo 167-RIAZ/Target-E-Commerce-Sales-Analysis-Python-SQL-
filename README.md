@@ -96,7 +96,7 @@ This project focuses on analyzing real-world E-Commerce sales data (2016–2018)
 Syed Md Riaz
 Data Analyst | Python & SQL Enthusiast | Passionate about turning data into decisions
 📧 syed.riaz1406@gmail.com
-🌐www.linkedin.com/in/syed-md-riaz
+🌐 www.linkedin.com/in/syed-md-riaz
 
 ⸻
 
